@@ -1,3 +1,3 @@
 # CatGPT
 A textual and programmatic generation experiment in testing the limitations of ChatGPT 4o mini. And also just to make a silly joke a reality.
-Test it out here: [https://html-preview.github.io/?url=https://github.com/jmlwhittington/CatGPT/blob/main/CatGPT.html]
+Test it out here: https://html-preview.github.io/?url=https://github.com/jmlwhittington/CatGPT/blob/main/CatGPT.html
